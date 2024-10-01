@@ -1,8 +1,8 @@
 {
-  "name": "@monorepo-template/functions",
+  "name": "@lifeos/functions",
   "version": "0.0.0",
   "dependencies": {
-    "@monorepo-template/core": "*",
+    "@lifeos/core": "*",
     "sst": "*"
   },
   "devDependencies": {
